@@ -1,6 +1,2 @@
 blender
 libgl1
-libxxf86vm1
-libxfixes3
-libxi6
-libxrender1
