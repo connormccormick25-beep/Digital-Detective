@@ -1,7 +1,4 @@
 streamlit
-pandas
-Pillow
-fpdf2
-requests
 newsapi-python
-python-dotenv
+bpy
+os-sys
